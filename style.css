@@ -1,0 +1,76 @@
+body{
+     background-color: grey;
+     color: white;
+}
+
+.header_div{
+     background-color: #454141;
+}
+
+.header_div img{
+     width: 100px;
+     height: 100px;
+}
+
+
+#webcam, #Snapshot{
+     border: 3px solid white;
+     width: 400px;
+     height: 350px;
+     margin-bottom: 15px;
+     padding: 10px;
+     
+}
+
+.webcam_div{
+     background-color: #454141;
+     padding: 10px;
+     margin-top: 15px;
+     border: 3px solid white;
+}
+
+.webcam_div label{
+     background-color: white;
+     color: black;
+     border-radius: 5px;
+     padding: 10px;
+     width: 400px;
+     font-size: 25px;
+}
+
+.webcam_div button{
+     width: 400px;
+     font-size: 15px;
+     box-shadow: 5px 5px 18px black;
+     border: 1px solid white;
+}
+
+.object{
+     margin-top: 15px;
+     margin-bottom: 50px;
+}
+
+.object h4{
+     background-color: white;
+     border-radius: 10px;
+     padding: 5px;
+     box-shadow: 5px, 5px, 18px, black;
+}
+
+.object img{
+     width: 70px;
+}
+
+.footer{
+     padding: 20px;
+     background-color: black;
+     position: fixed;
+     bottom: 0px;
+     width: 100%;
+     line-height: 3;
+     text-align: center;
+}
+
+.object span{
+     color: black;
+}
